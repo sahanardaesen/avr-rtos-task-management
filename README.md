@@ -20,3 +20,5 @@ This project demonstrates a multi-tasking embedded system using **FreeRTOS** on 
 2. Install the `FreeRTOS` library.
 3. Open `sim/circuit.simu` in Simulide.
 4. Compile and upload the `.hex` file to the Arduino.
+
+<img width="576" height="668" alt="image" src="https://github.com/user-attachments/assets/375c5130-ae6a-484b-bbd3-2f5543115acd" />
